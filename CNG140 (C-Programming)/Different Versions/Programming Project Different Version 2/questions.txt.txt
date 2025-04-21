@@ -1,0 +1,69 @@
+Question: What is the keyword used to define a constant in C?
+A. const
+B. define
+C. constant
+D. var
+Correct Answer: A
+
+Question: What is the main function's return type in C?
+A. void
+B. int
+C. float
+D. char
+Correct Answer: B
+
+Question: What does the `printf` function in C do?
+A. Input data
+B. Output data
+C. Calculate data
+D. Delete data
+Correct Answer: B
+
+Question: In C, which operator is used to access the value at the address of a variable?
+A. *
+B. &
+C. #
+D. %
+Correct Answer: A
+
+Question: Which header file should be included to work with dynamic memory allocation in C?
+A. <stdlib.h>
+B. <stdio.h>
+C. <string.h>
+D. <math.h>
+Correct Answer: A
+
+Question: What is the maximum value that an `int` can store in C on most systems?
+A. 255
+B. 32767
+C. 2147483647
+D. 4294967295
+Correct Answer: C
+
+Question: In C, which loop is suitable when you want to execute a block of code at least once?
+A. for loop
+B. while loop
+C. do-while loop
+D. if statement
+Correct Answer: C
+
+Question: What is the purpose of the `break` statement in a loop in C?
+A. It exits the program.
+B. It skips the current iteration and continues to the next.
+C. It exits the loop prematurely.
+D. It displays a message and continues the loop.
+Correct Answer: C
+
+Question: Which data type is used to store a single character in C?
+A. char
+B. int
+C. float
+D. double
+Correct Answer: A
+
+Question: What does the acronym "IDE" stand for in the context of programming?
+A. Integrated Development Environment
+B. Interactive Data Entry
+C. Input-Output Display Environment
+D. Internal Data Encoding
+Correct Answer: A

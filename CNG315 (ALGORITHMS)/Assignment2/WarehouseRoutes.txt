@@ -1,0 +1,7 @@
+Lefkosa;35;Haspolat;10;Gonyeli;60;Gazimagusa;45;Guzelyurt;30;Girne;55;Bostanci
+Girne;40;Zeytinlik;15;Lapta;50;Guzelyurt
+Guzelyurt;10;Bostanci;15;Lefke;5;Kalkanli
+Lefke;15;Yesilirmak
+Gazimagusa;30;Gecitkale;50;Inonu;20;Iskele
+Iskele;10;Bogaz;25;Dipkarpaz
+Kalkanli;20;Lapta

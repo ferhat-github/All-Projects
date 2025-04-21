@@ -1,0 +1,9 @@
+full_name;x_initial;x_final;y_initial;y_final;
+Elisa Blaese;1373;1840;1400;1490;
+Samiya Davidson;1770;2597;1523;2000;
+Ariah Brandt;1890;2295;1250;2025;
+Brittney Bennett;1105;1972;1000;1923;
+Lorelei Munoz;1396;2572;1005;2120;
+Carlton Randall;1373;1992;1369;1966;
+Elina Cantu;1082;2140;1100;2101;
+Efa Murillo;1925;2713;1014;1023;

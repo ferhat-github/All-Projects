@@ -1,0 +1,33 @@
+UserName;SubscriptionID;ServiceName;ServiceCharge;DevicesRegistered;StartDate;EndDate;Status;Country
+Alice;333;Netflix;15.99;3;2023-01-01;2023-12-31;Active;United Kingdom
+Bob;234;Spotify;9.99;2;2023-05-01;2024-04-30;Active;Germany
+Charlie;127;Amazon Prime;12.99;4;2022-03-15;2023-03-14;Expired;France
+Alice;245;Spotify;9.99;2;2023-02-02;2023-12-20;Active;United Kingdom
+David;564;Disney+;7.99;3;2022-11-15;2023-11-14;Expired;Spain
+Eve;679;Hulu;11.99;1;2023-06-01;2024-05-31;Active;United Kingdom
+Alice;345;Apple Music;10.99;2;2021-08-10;2022-08-09;Expired;Italy
+Bob;123;YouTube Premium;12.99;2;2022-09-01;2023-08-31;Expired;Germany
+Charlie;678;HBO Max;14.99;3;2023-03-20;2024-03-19;Active;United Kingdom
+David;998;Paramount+;6.99;2;2023-04-15;2024-04-14;Active;France
+Eve;450;Spotify;9.99;1;2022-07-01;2023-06-30;Expired;Germany
+Alice;789;Netflix;15.99;4;2023-05-01;2024-04-30;Active;Spain
+Bob;350;Disney+;7.99;2;2021-12-01;2022-11-30;Expired;France
+Charlie;432;Amazon Prime;12.99;3;2021-04-15;2022-04-14;Expired;Italy
+David;576;Apple TV+;4.99;2;2023-01-01;2023-12-31;Active;United Kingdom
+Eve;679;HBO Max;14.99;1;2023-09-10;2024-09-09;Active;Germany
+Ash;912;Netflix;15.99;3;2022-02-15;2023-02-14;Expired;United Kingdom
+Aissen;101;Spotify;9.99;2;2023-03-01;2024-02-29;Active;France
+Jack;678;Hulu;11.99;1;2023-08-10;2024-08-09;Active;Spain
+Kale;234;Amazon Prime;12.99;4;2021-09-25;2022-09-24;Expired;Italy
+Ash;365;YouTube Premium;12.99;3;2023-06-01;2024-05-31;Active;Germany
+Aissen;564;Disney+;7.99;2;2022-12-10;2023-12-09;Expired;France
+Jack;987;HBO Max;14.99;2;2023-01-20;2024-01-19;Active;United Kingdom
+Kale;457;Paramount+;6.99;1;2023-07-05;2024-07-04;Active;Spain
+Ash;678;Apple TV+;4.99;2;2021-11-15;2022-11-14;Expired;Italy
+Aissen;234;Hulu;11.99;1;2022-04-10;2023-04-09;Expired;United Kingdom
+Jack;123;Netflix;15.99;3;2023-09-01;2024-08-31;Active;Germany
+Kale;765;Spotify;9.99;2;2023-02-01;2024-01-31;Active;France
+Ash;888;Amazon Prime;12.99;4;2021-06-05;2022-06-04;Expired;Spain
+Aissen;555;Disney+;7.99;2;2023-07-15;2024-07-14;Active;Italy
+Jack;432;Apple Music;10.99;2;2022-09-01;2023-08-31;Expired;United Kingdom
+Kale;678;YouTube Premium;12.99;1;2023-03-01;2024-02-29;Active;Germany

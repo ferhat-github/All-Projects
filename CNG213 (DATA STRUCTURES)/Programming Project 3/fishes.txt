@@ -1,0 +1,7 @@
+Name,Weight,Length,Date,City
+Beam,242,23.2,02/02/2022,city1
+Whitefish,270,23.6,22/02/2022,city2
+Roach,40,12.9,15/09/2022,city3
+Parkki,300,26.0,15/09/2022,city4
+Whitefish,270,24.1,15/09/2022,city3
+Parkki,300,26.5,18/09/2022,city5
